@@ -5,6 +5,16 @@
             "username": "rafli",
             "password": "1",
             "role": "admin"       
+        }, 
+        {
+            "username": "userfree",
+            "password": "free",
+            "role": "Subscribe Fernazer Code"       
+        }, 
+        {
+            "username": "userpremium",
+            "password": "premium",
+            "role": "vvip"       
         }
     ]
 }
