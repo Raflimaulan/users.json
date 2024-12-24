@@ -3,17 +3,17 @@
 
         {
             "username": "rafli",
-            "password": "ehem",
+            "password": "1",
             "role": "admin"       
         }, 
         {
             "username": "userfree",
-            "password": "ehem",
+            "password": "free",
             "role": "Subscribe Fernazer Code"       
         }, 
         {
             "username": "userpremium",
-            "password": "ehem",
+            "password": "premium",
             "role": "vvip"       
         }
     ]
