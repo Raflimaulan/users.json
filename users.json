@@ -1,20 +1,5 @@
 {
-    "users": [
-
-        {
-            "username": "rafli",
-            "password": "1",
-            "role": "admin"       
-        }, 
-        {
-            "username": "userfree",
-            "password": "free",
-            "role": "Subscribe Fernazer Code"       
-        }, 
-        {
-            "username": "userpremium",
-            "password": "premium",
-            "role": "vvip"       
-        }
-    ]
-} 
+    "user1": "password1",
+    "user2": "password2",
+    "user3": "password3"
+}
