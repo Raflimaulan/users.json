@@ -2,17 +2,17 @@
     "users": [
 
         {
-            "username": "flix",
+            "username": "",
             "password": "prem",
             "role": "admin"       
         }, 
         {
-            "username": "free17",
+            "username": "",
             "password": "free",
             "role": "Subscribe Fernazer Code"       
         }, 
         {
-            "username": "prem17",
+            "username": "",
             "password": "prem",
             "role": "vvip"       
         }
