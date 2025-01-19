@@ -7,14 +7,14 @@
             "role": "admin"       
         }, 
         {
-            "username": "free17",
+            "username": "free1",
             "password": "free",
-            "role": "Subscribe Fernazer Code"       
+            "role": "biasa"       
         }, 
         {
-            "username": "prem17",
+            "username": "prem1",
             "password": "prem",
-            "role": "vvip"       
+            "role": "premium"       
         }
     ]
 }
