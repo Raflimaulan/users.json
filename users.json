@@ -16,5 +16,10 @@
             "password": "prem",
             "role": "premium"       
         }
+          {
+            "username": "TanzManuel",
+            "password": "Manuel Ai",
+            "role": "premium"       
+        }
     ]
 }
