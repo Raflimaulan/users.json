@@ -16,9 +16,9 @@
             "password": "prem",
             "role": "premium"       
         },
-          {
-            "username": "TanzManuel",
-            "password": "Manuel Ai",
+        {
+            "username": "tanzmanuel",
+            "password": "manuelai",
             "role": "premium"       
         }
     ]
