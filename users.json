@@ -20,6 +20,12 @@
             "username": "tanzmanuel",
             "password": "manuelai",
             "role": "premium"       
+        },
+               
+        {
+            "username": "aldo",
+            "password": "aldo",
+            "role": "free"       
         }
     ]
 }
