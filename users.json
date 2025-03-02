@@ -32,6 +32,18 @@
             "username": "mantap1",
             "password": "mantap",
             "role": "free"       
+        },
+        
+        {
+            "username": "Mayyz",
+            "password": "Mayyz",
+            "role": "free"       
+        },
+
+        {
+            "username": "Koi",
+            "password": "Koi",
+            "role": "free"       
         }
     ]
 }
