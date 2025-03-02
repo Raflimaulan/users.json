@@ -26,6 +26,12 @@
             "username": "aldo",
             "password": "aldo",
             "role": "free"       
+        },
+            
+        {
+            "username": "mantap1",
+            "password": "mantap",
+            "role": "free"       
         }
     ]
 }
