@@ -44,6 +44,12 @@
             "username": "Koi",
             "password": "Koi",
             "role": "free"       
+        },
+
+        {
+            "username": "kizho30",
+            "password": "kiz160",
+            "role": "premium"       
         }
     ]
 }
