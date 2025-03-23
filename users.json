@@ -50,6 +50,12 @@
             "username": "kizho30",
             "password": "kiz160",
             "role": "premium"       
+        },
+
+           {
+            "username": "flix25",
+            "password": "25",
+            "role": "free"       
         }
     ]
 }
